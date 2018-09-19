@@ -191,7 +191,7 @@ public class AssetPreProcessor_Editor : Editor {
 		DrawDefaultInspector ();
 	}
 
-	[MenuItem("Overkill/Assets Pre Processor")]
+	[MenuItem("Tools/Assets Pre Processor")]
 	public static AssetsPreProcessor Create_AssetsPreProcessor_Settings () {
 		AssetsPreProcessor asset;
 
