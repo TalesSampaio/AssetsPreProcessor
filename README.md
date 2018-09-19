@@ -1,6 +1,6 @@
 # Assets Pre Processor
 
-An attempt standardize rules on a Unity project.
+An attempt standardize rules for Import Settings on a Unity project.
 
 ## Features
 
